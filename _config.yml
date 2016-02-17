@@ -1,0 +1,14 @@
+layout_spectrum: 0.2043011
+typography_spectrum: 0.8602151
+color:
+  saturation: 0.4000527
+  lightness: 0.9079413
+  brandStrength: 0.5232975
+  brandColors:
+    - '#2F302F'
+    - '#536355'
+    - '#C5BFB3'
+    - '#F0EBE0'
+    - '#C69078'
+  rhythmicContrast: 0.2411896
+name: hellotokyo
