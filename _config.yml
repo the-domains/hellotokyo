@@ -2,6 +2,7 @@ name: hellotokyo
 favicon: null
 layout_spectrum: 0.74291
 typography_spectrum: 0.29652
+title: Hello Tokyo
 cta:
   domain: null
   bucket: null
