@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[hellotokyo]]></title>
         <description><![CDATA[hellotokyo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 12:43:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 12:45:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
+            <title><![CDATA[BARS in Tokyo]]></title>
+            <description><![CDATA[<article><h1>BARS in Tokyo</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
             <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
-            <pubDate>Sat, 20 Feb 2016 12:43:54 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 12:45:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
