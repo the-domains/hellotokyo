@@ -4,8 +4,16 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 13:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 13:24:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station ]]></title>
+            <description><![CDATA[<article><h1>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </h1><p>Bar High Five and Star Bar in Ginza 
+</p></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
+            <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
+            <pubDate>Sat, 20 Feb 2016 13:24:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SUSHI ]]></title>
             <description><![CDATA[<article><h1>SUSHI </h1><p>Harutaka This should be easier than the other popular sushi restaurants.
@@ -20,14 +28,6 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>https://thegrid.ai/hellotokyo/235e44f3-68a6-4722-aee4-3ac66edaa1c3/index.html</link>
             <guid isPermaLink="false">235e44f3-68a6-4722-aee4-3ac66edaa1c3</guid>
             <pubDate>Sat, 20 Feb 2016 12:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station ]]></title>
-            <description><![CDATA[<article><h1>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </h1><p>Bar High Five and Star Bar in Ginza 
-</p></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
-            <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
-            <pubDate>Sat, 20 Feb 2016 13:22:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
