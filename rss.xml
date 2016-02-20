@@ -4,11 +4,12 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 13:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 13:23:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SUSHI ]]></title>
-            <description><![CDATA[<article><h1>SUSHI </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34d9320e9112ba90d062024a772592877cd15135.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>SUSHI </h1><p>Harutaka This should be easier than the other popular sushi restaurants.
+If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsukoshi, book the one in Ginza 8chome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34d9320e9112ba90d062024a772592877cd15135.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
             <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
             <pubDate>Sat, 20 Feb 2016 13:20:24 GMT</pubDate>
@@ -21,11 +22,12 @@
             <pubDate>Sat, 20 Feb 2016 12:52:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BARS in Tokyo]]></title>
-            <description><![CDATA[<article><h1>BARS in Tokyo</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p></article>]]></description>
+            <title><![CDATA[Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station ]]></title>
+            <description><![CDATA[<article><h1>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </h1><p>Bar High Five and Star Bar in Ginza 
+</p></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
             <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
-            <pubDate>Sat, 20 Feb 2016 12:45:18 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 13:22:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
