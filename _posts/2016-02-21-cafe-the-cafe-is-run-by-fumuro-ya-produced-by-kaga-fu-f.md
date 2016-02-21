@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Cafe   The Cafe is run by "Fumuro-ya" Produced by ‘Kaga-fu Fumuroya’, a well-established store from Kanazawa that boasts 150 years of tradition, the museum’s in'
-datePublished: '2016-02-21T14:22:03.275Z'
-dateModified: '2016-02-21T14:19:27.334Z'
+datePublished: '2016-02-21T14:23:11.118Z'
+dateModified: '2016-02-21T14:22:13.481Z'
 author: []
 title: Cafe The Cafe
 sourcePath: _posts/2016-02-21-cafe-the-cafe-is-run-by-fumuro-ya-produced-by-kaga-fu-f.md
