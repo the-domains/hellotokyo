@@ -4,7 +4,7 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 13:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 13:55:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -20,6 +20,14 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
             <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
             <pubDate>Sun, 21 Feb 2016 13:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p>Motoyoshi
+Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/de73ac9d-194e-4318-9d60-7731d73a47ca/index.html</link>
+            <guid isPermaLink="false">de73ac9d-194e-4318-9d60-7731d73a47ca</guid>
+            <pubDate>Sun, 21 Feb 2016 13:54:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +77,6 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>http://natureofcode.com/</link>
             <guid isPermaLink="false">411ee6ec-499b-4ce4-b9df-3230f2db79d7</guid>
             <pubDate>Sun, 21 Feb 2016 13:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c632f54-8f93-46b2-9a40-5aca33dfffc0.jpg">]]></description>
-            <link>https://thegrid.zendesk.com/hc/en-us/articles/216716247-How-The-Grid-s-AI-works</link>
-            <guid isPermaLink="false">6dcc8d33-ba50-45d0-8131-41ac2763c717</guid>
-            <pubDate>Sun, 21 Feb 2016 13:53:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
