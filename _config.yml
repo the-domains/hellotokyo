@@ -1,29 +1,41 @@
-name: hellotokyo
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.56371
 title: Hello Tokyo
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.8172043
+  lightness: 1
+  brandColors:
+    - '#191918'
+    - '#E0E0E0'
+    - '#9C9B98'
+    - '#797875'
+    - '#4C4C4A'
+  rhythmicContrast: 0
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: hellotokyo
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#040402'
-    - '#4b4643'
-    - '#8d7640'
-    - '#ffeede'
-    - '#a6ae96'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.56371
+layout_spectrum: 0
