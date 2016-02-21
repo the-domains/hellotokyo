@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5
-  brandStrength: 0.8172043
+  brandStrength: 0
   lightness: 1
   brandColors:
-    - '#191918'
-    - '#E0E0E0'
-    - '#9C9B98'
-    - '#797875'
-    - '#4C4C4A'
+    - '#4B3042'
+    - '#C7C6B2'
+    - '#CE0329'
+    - '#3A279A'
+    - '#FBD030'
   rhythmicContrast: 0
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: hellotokyo
+favicon: null
 opengraph:
   image: null
   type: null
