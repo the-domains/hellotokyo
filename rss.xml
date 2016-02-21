@@ -4,8 +4,15 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 13:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 13:24:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.gotokyo.org/en/kanko/taito/spot/images/01_203.jpg">]]></description>
+            <link>https://thegrid.ai/hellotokyo/this-museum-collects-and-preserves-around-300-treasures-that/index.html</link>
+            <guid isPermaLink="false">ceacac6a-572d-4296-bd7c-6db1e149d2d9</guid>
+            <pubDate>Sun, 21 Feb 2016 13:23:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.gotokyo.org/en/kanko/taito/spot/images/01_203.jpg">]]></description>
@@ -72,14 +79,6 @@ Why go to a Chinese restaurant in Tokyo, especially when another restaurant in t
             <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
             <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
             <pubDate>Sun, 21 Feb 2016 12:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SUSHI ]]></title>
-            <description><![CDATA[<article><h1>SUSHI </h1><p>Harutaka This should be easier than the other popular sushi restaurants.
-If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsukoshi, book the one in Ginza 8chome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/251f60838b273f1387614d81e21acbf67c54dbfa.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
-            <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
-            <pubDate>Sun, 21 Feb 2016 12:35:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
