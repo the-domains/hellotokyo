@@ -4,8 +4,15 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 13:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 13:28:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://a2.cdn.japantravel.com/photo/2959-18437/600x400/photo.jpg">]]></description>
+            <link>https://thegrid.ai/hellotokyo/kyu-asakura-house-and-garden-is-a-great-place-to-step-back-i/index.html</link>
+            <guid isPermaLink="false">9967020f-e9ab-4c78-84ca-315859897b19</guid>
+            <pubDate>Sun, 21 Feb 2016 13:28:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Cafe   The Cafe is run by "Fumuro-ya" Produced by ‘Kaga-fu Fumuroya’, a well-established store from Kanazawa that boasts 150 years of tradition, the museum’s intimate cafe is perfect for reflecting after a tour through the museum. The menu incorporates a traditional Japanese wheat bran known as ‘fu’, and includes modern interpretations of traditional Japanese dishes. Set meals, desserts, green tea and vegetarian options are available.</p>]]></description>
@@ -71,14 +78,6 @@ Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p></article>]]></descript
             <link>https://thegrid.ai/hellotokyo/de73ac9d-194e-4318-9d60-7731d73a47ca/index.html</link>
             <guid isPermaLink="false">de73ac9d-194e-4318-9d60-7731d73a47ca</guid>
             <pubDate>Sun, 21 Feb 2016 12:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HOTEL RESTAURANTS ]]></title>
-            <description><![CDATA[<article><h1>HOTEL RESTAURANTS </h1><p>China Blue at Conrad Tokyo
-Why go to a Chinese restaurant in Tokyo, especially when another restaurant in the hotel is Michelin-starred? The delectable, beautifully presented Cantonese food by Albert Tse, that’s why. Or the expansive view of Tokyo Bay and the waterfront, planned site of the 2020 Olympics. Or: don’t be such an absolutist, try both! </p></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/fe67aa60-e4e9-43c8-a1c9-214f37a0588f/index.html</link>
-            <guid isPermaLink="false">fe67aa60-e4e9-43c8-a1c9-214f37a0588f</guid>
-            <pubDate>Sun, 21 Feb 2016 12:39:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
