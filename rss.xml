@@ -4,8 +4,16 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 13:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 13:34:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SUSHI ]]></title>
+            <description><![CDATA[<article><h1>SUSHI </h1><p>Harutaka This should be easier than the other popular sushi restaurants.
+If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsukoshi, book the one in Ginza 8chome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61ba9923ef594b51d0726f8e30a4c2fbb7e89ce5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
+            <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
+            <pubDate>Sun, 21 Feb 2016 13:33:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://a2.cdn.japantravel.com/photo/2959-18437/600x400/photo.jpg">]]></description>
@@ -68,16 +76,6 @@
             <link>https://thegrid.ai/hellotokyo/how-the-grids-ai-works-betty-bair-january-29-2016-1442/index.html</link>
             <guid isPermaLink="false">6dcc8d33-ba50-45d0-8131-41ac2763c717</guid>
             <pubDate>Sun, 21 Feb 2016 12:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[
-TENPURA ]]></title>
-            <description><![CDATA[<article><h1>
-TENPURA </h1><p>Motoyoshi
-Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/de73ac9d-194e-4318-9d60-7731d73a47ca/index.html</link>
-            <guid isPermaLink="false">de73ac9d-194e-4318-9d60-7731d73a47ca</guid>
-            <pubDate>Sun, 21 Feb 2016 12:39:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
