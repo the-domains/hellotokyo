@@ -1,18 +1,24 @@
 ---
 description: 'Kyu Asakura House and garden is a great place to step back in time By David Hallman, October 2012 The chic streets of Daikanyama with its high end boutiques, fo'
+isBasedOnUrl: 'http://en.japantravel.com/tokyo/kyu-asakura-house-in-daikanyam/2959'
 author: []
-datePublished: '2016-02-21T13:28:47.701Z'
+datePublished: '2016-02-21T13:34:56.382Z'
 publisher:
-  domain: en.japantravel.com
   name: en.japantravel.com
-dateModified: '2016-02-21T13:28:37.857Z'
+  domain: en.japantravel.com
+  url: null
+  favicon: null
+dateModified: '2016-02-21T13:34:03.679Z'
 title: ''
 sourcePath: _posts/2016-02-21-kyu-asakura-house-and-garden-is-a-great-place-to-step-back-i.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: kyu-asakura-house-and-garden-is-a-great-place-to-step-back-i/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
