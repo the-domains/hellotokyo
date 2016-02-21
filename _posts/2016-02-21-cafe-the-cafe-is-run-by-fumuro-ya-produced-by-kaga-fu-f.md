@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.suntory.com/sma/shopxcafe/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Cafe   The Cafe is run by "Fumuro-ya" Produced by ‘Kaga-fu Fumuroya’, a well-established store from Kanazawa that boasts 150 years of tradition, the museum’s in'
-datePublished: '2016-02-21T14:05:35.099Z'
-dateModified: '2016-02-21T14:04:00.722Z'
+datePublished: '2016-02-21T14:22:03.275Z'
+dateModified: '2016-02-21T14:19:27.334Z'
 author: []
-title: ''
+title: Cafe The Cafe
 sourcePath: _posts/2016-02-21-cafe-the-cafe-is-run-by-fumuro-ya-produced-by-kaga-fu-f.md
 published: true
 authors: []
@@ -19,6 +18,7 @@ publisher:
   domain: www.suntory.com
   url: null
   favicon: null
+url: cafe-the-cafe/index.html
 _context: 'http://schema.org'
 _type: Article
 
