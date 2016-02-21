@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'HOME　>　About the Museum   The Nezu Museum was founded to conserve and exhibit the collection of pre-modern Japanese and East Asian art that Nezu Kaichirō (1860-'
-datePublished: '2016-02-21T14:04:18.042Z'
-dateModified: '2016-02-21T14:04:06.519Z'
+datePublished: '2016-02-21T14:05:41.468Z'
+dateModified: '2016-02-21T14:04:27.253Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-21-home-greater-about-the-museum-the-nezu-museum-was-founded-to-con.md
