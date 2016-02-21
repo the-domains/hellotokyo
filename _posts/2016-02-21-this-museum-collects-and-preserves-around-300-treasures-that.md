@@ -1,11 +1,11 @@
 ---
 description: 'This museum collects and preserves around 300 treasures that were presented by Horyuji Temple in Nara to the Imperial Household in 1878, and then transferred ba'
 author: []
-datePublished: '2016-02-21T13:18:17.023Z'
+datePublished: '2016-02-21T13:23:34.493Z'
 publisher:
   domain: www.gotokyo.org
   name: gotokyo.org
-dateModified: '2016-02-21T13:12:55.945Z'
+dateModified: '2016-02-21T13:15:58.154Z'
 title: ''
 sourcePath: _posts/2016-02-21-this-museum-collects-and-preserves-around-300-treasures-that.md
 published: true
