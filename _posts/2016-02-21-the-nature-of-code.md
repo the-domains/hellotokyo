@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://natureofcode.com'
-  name: Natureofcode
-  favicon: null
-  domain: natureofcode.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://natureofcode.com/'
+inLanguage: en
+starred: false
 keywords:
   - book
   - license
@@ -18,19 +17,22 @@ keywords:
   - typeset
   - source
 description: Download the entire book directly from the author.
-inLanguage: en
+datePublished: '2016-02-21T13:51:59.088Z'
+dateModified: '2016-02-21T13:51:36.279Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://natureofcode.com/'
 title: The Nature of Code
-datePublished: '2016-02-21T12:57:06.880Z'
-dateModified: '2016-02-21T12:56:47.383Z'
 sourcePath: _posts/2016-02-21-the-nature-of-code.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Natureofcode
+  domain: natureofcode.com
+  url: 'http://natureofcode.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Nature of Code</h1><p>Download the entire book directly from the author&amp;period;</p><img src="http://natureofcode.com/book/imgs/noc_print.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b88746b7-3bd8-43cb-96ea-6a20269705cb.jpg)
