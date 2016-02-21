@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Welcome Hello! By browsing the table of contents on your left, you can read the entire text of this book online for free, licensed under a Creative Commons Attr'
-datePublished: '2016-02-21T13:50:20.750Z'
-dateModified: '2016-02-21T13:50:11.237Z'
+datePublished: '2016-02-21T14:05:58.626Z'
+dateModified: '2016-02-21T13:50:23.157Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-21-welcome-hello-by-browsing-the-table-of-contents-on-your-lef.md
