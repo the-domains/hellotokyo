@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Cafe   The Cafe is run by "Fumuro-ya" Produced by ‘Kaga-fu Fumuroya’, a well-established store from Kanazawa that boasts 150 years of tradition, the museum’s in'
-datePublished: '2016-02-23T13:48:54.540Z'
-dateModified: '2016-02-23T13:48:30.594Z'
+datePublished: '2016-02-23T13:49:17.979Z'
+dateModified: '2016-02-23T13:48:56.114Z'
 author: []
 title: Cafe The Cafe
 sourcePath: _posts/2016-02-21-cafe-the-cafe-is-run-by-fumuro-ya-produced-by-kaga-fu-f.md
@@ -25,4 +25,22 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1f1f4f2-11a9-42ff-a610-bfdfb98a8ec7.jpg)
 
-**Cafe The Cafe** is run by "Fumuro-ya" Produced by 'Kaga-fu Fumuroya', a well-established store from Kanazawa that boasts 150 years of tradition, the museum's intimate cafe is perfect for reflecting after a tour through the museum. The menu incorporates a traditional Japanese wheat bran known as 'fu', and includes modern interpretations of traditional Japanese dishes. Set meals, desserts, green tea and vegetarian options are available.
+Most expensive land on earth
+
+Grid-like but can be disorienting
+
+Recent development adding new luxury retail stores
+
+Subway: Ginza
+
+Hermés // Renzo Piano designed
+
+Also, Hermes museum at the 8th floor, definitely go
+
+Mitsukoshi // 1-4-1 Nihonbashi Muromachi / oldest department store in Tokyo, 10am bells and bows ceremony, kimono floor has great service
+
+The basement floor (of typically any department store) is a must. It's the food floor and truly inspirational.
+
+Shiseido Art Gallery
+
+It's an interesting art space in the basement, across from the Shiseido HQ in Ginza
