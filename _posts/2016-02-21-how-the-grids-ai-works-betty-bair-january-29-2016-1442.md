@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://thegrid.zendesk.com/hc/en-us/articles/216716247-How-The-Grid-s-AI-works'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "How The Grid's AI works   Betty Bair January 29, 2016 14:42 The Grid is the world's first A.I. design platform that designs websites. When you post to your site"
-datePublished: '2016-02-23T13:34:49.127Z'
-dateModified: '2016-02-23T13:33:33.603Z'
+description: ''
+datePublished: '2016-02-23T13:36:52.548Z'
+dateModified: '2016-02-23T13:34:54.779Z'
 author: []
-title: ''
+title: RANDOM RETAILS
 sourcePath: _posts/2016-02-21-how-the-grids-ai-works-betty-bair-january-29-2016-1442.md
 published: true
 authors: []
@@ -19,6 +18,7 @@ publisher:
   domain: thegrid.zendesk.com
   url: null
   favicon: null
+url: random-retails/index.html
 _context: 'http://schema.org'
 _type: Article
 
