@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:18:14.112Z'
-dateModified: '2016-02-23T16:18:13.416Z'
+datePublished: '2016-02-23T16:22:43.191Z'
+dateModified: '2016-02-23T16:21:21.453Z'
 author: []
 title: Ueno + Nippori + Asakusa Itinerary
 sourcePath: _posts/2016-02-21-this-museum-collects-and-preserves-around-300-treasures-that.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: gotokyo.org
   domain: www.gotokyo.org
   url: null
-  favicon: null
 url: this-museum-collects-and-preserves-around-300-treasures-that/index.html
 _context: 'http://schema.org'
 _type: Article
