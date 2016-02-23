@@ -4,11 +4,18 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 16:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 16:19:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ueno + Nippori + Asakusa Itinerary]]></title>
+            <description><![CDATA[<article><h1>Ueno + Nippori + Asakusa Itinerary</h1><p>UENO</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1c9f60583bf3355f37e978514987bdbfe7a9471.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/this-museum-collects-and-preserves-around-300-treasures-that/index.html</link>
+            <guid isPermaLink="false">7f9e5ca4-5d8a-439e-acc5-899a1578f745</guid>
+            <pubDate>Tue, 23 Feb 2016 16:18:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ginza Itinerary]]></title>
-            <description><![CDATA[<article><h1>Ginza Itinerary</h1><p>Most expensive land on earth</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a82a80c873764ad1dfba6a587eb4467f2267334.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ginza Itinerary</h1><p>Most expensive land on earth</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a1f385edbedc4e02f5b655a3af6588e07109882.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/cafe-the-cafe/index.html</link>
             <guid isPermaLink="false">b05fc3db-3fb5-4f9d-bc3d-84ccca06e576</guid>
             <pubDate>Tue, 23 Feb 2016 16:17:58 GMT</pubDate>
@@ -29,11 +36,11 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <pubDate>Sun, 21 Feb 2016 13:33:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3387902-0b17-44ef-bf74-531004ac9c1f.jpg">]]></description>
-            <link>http://www.nezu-muse.or.jp/en/about/index.html</link>
+            <title><![CDATA[Marunouchi Itinerary]]></title>
+            <description><![CDATA[<article><h1>Marunouchi Itinerary</h1><p>used to be primarily financial district</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac970912204c9e860cb6fcff1fa8e4fd259f4e84.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/marunouchi-itinerary/index.html</link>
             <guid isPermaLink="false">37c9289b-df75-46c1-8cec-49fb956a15df</guid>
-            <pubDate>Tue, 23 Feb 2016 13:51:16 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 16:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -70,13 +77,6 @@ Why go to a Chinese restaurant in Tokyo, especially when another restaurant in t
             <link>https://thegrid.ai/hellotokyo/fe67aa60-e4e9-43c8-a1c9-214f37a0588f/index.html</link>
             <guid isPermaLink="false">fe67aa60-e4e9-43c8-a1c9-214f37a0588f</guid>
             <pubDate>Sun, 21 Feb 2016 14:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BARS]]></title>
-            <description><![CDATA[<article><h1>BARS</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c08116ffa93fd7937115e139cdd313d598784b10.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
-            <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
-            <pubDate>Tue, 23 Feb 2016 16:17:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
