@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T13:36:52.548Z'
-dateModified: '2016-02-23T13:34:54.779Z'
+datePublished: '2016-02-23T16:19:13.758Z'
+dateModified: '2016-02-23T14:48:28.072Z'
 author: []
-title: RANDOM RETAILS
+title: Random Retail
 sourcePath: _posts/2016-02-21-how-the-grids-ai-works-betty-bair-january-29-2016-1442.md
 published: true
 authors: []
