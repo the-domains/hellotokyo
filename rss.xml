@@ -4,7 +4,7 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 13:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 13:39:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -20,6 +20,13 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
             <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
             <pubDate>Sun, 21 Feb 2016 13:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COFFEE SHOPS]]></title>
+            <description><![CDATA[<article><h1>COFFEE SHOPS</h1><p>Omotesando Koffee (it’s a must go, tucked away in the backstreets behind Omotesando Hills) </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4641dad4d027b65a3fb0efd5ae1a65a8a64bd232.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/235e44f3-68a6-4722-aee4-3ac66edaa1c3/index.html</link>
+            <guid isPermaLink="false">235e44f3-68a6-4722-aee4-3ac66edaa1c3</guid>
+            <pubDate>Tue, 23 Feb 2016 13:37:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RANDOM RETAILS]]></title>
@@ -38,10 +45,10 @@ Why go to a Chinese restaurant in Tokyo, especially when another restaurant in t
         </item>
         <item>
             <title><![CDATA[BARS]]></title>
-            <description><![CDATA[<article><h1>BARS</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45582a2e0cd8e2b943d392bd3a419b5a15e8767e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>BARS</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5c330f7c4037794c4ff568eb6892ec509e19268.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
             <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
-            <pubDate>Sun, 21 Feb 2016 14:37:35 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 13:37:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -71,13 +78,6 @@ Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p></article>]]></descript
             <link>https://thegrid.ai/hellotokyo/this-museum-collects-and-preserves-around-300-treasures-that/index.html</link>
             <guid isPermaLink="false">7f9e5ca4-5d8a-439e-acc5-899a1578f745</guid>
             <pubDate>Sun, 21 Feb 2016 13:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://media.timeout.com/images/102852954/750/422/image.jpg">]]></description>
-            <link>https://thegrid.ai/hellotokyo/how-about-coffee-with-bunnies-its-animal-cafes-galore-in-t/index.html</link>
-            <guid isPermaLink="false">967649a5-c6e0-4a28-a562-61e3d13e18e3</guid>
-            <pubDate>Sun, 21 Feb 2016 13:02:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
