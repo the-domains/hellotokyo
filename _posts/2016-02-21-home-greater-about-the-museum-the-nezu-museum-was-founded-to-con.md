@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'HOME　>　About the Museum   The Nezu Museum was founded to conserve and exhibit the collection of pre-modern Japanese and East Asian art that Nezu Kaichirō (1860-'
-datePublished: '2016-02-21T14:05:41.468Z'
-dateModified: '2016-02-21T14:04:27.253Z'
+datePublished: '2016-02-23T13:51:16.473Z'
+dateModified: '2016-02-23T13:51:05.379Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-21-home-greater-about-the-museum-the-nezu-museum-was-founded-to-con.md
@@ -25,4 +25,26 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3387902-0b17-44ef-bf74-531004ac9c1f.jpg)
 
-**Museum The Nezu Museum** was founded to conserve and exhibit the collection of pre-modern Japanese and East Asian art that Nezu Kaichirō (1860-1940) had passionately built. Kaichirō, a businessman whose career included being president of the Tōbu Railway Co., Ltd., was born in Yamanashi and became interested in art early in life. Upon moving to Tokyo in 1898, he displayed his abilities as a businessman and politician and expanded his field of activities to include education as well. Becoming an enthusiastic practitioner of the "way of tea" further spurred his enthusiasm for collecting, and his daring, bold approach became almost legendary. Moreover, Kaichirō did not view his collection as a private treasure trove but wish to share its enjoyment with the general public.
+used to be primarily financial district
+
+more relaxed than other shopping districts
+
+Naka Dori is main street
+
+Subway: Otemachi, Yurakucho, Tokyo
+
+100% Chocolate Cafe // "best chocolate store interior on earth, has to be seen"
+
+Marni // "melting chrome interior by Future Systems"
+
+APC // "one of the best store interiors in Tokyo"
+
+Shin Marunouchi Building // 7th floor open terrace (Sf)
+
+Muji Supermarket // largest Muji store, only one that carries whole line, good organic cafe
+
+This is the flagship Muji store and even has a Muji House in the center of it. Muji to
+
+me is a place that Target can aspire to be. And definitely go to the one in Yurakucho.
+
+Tokyo International Forum // massive event space in spectacular building. Takarai sake bar in basement
