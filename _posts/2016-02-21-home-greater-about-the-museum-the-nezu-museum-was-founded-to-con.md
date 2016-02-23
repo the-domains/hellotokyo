@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.nezu-muse.or.jp/en/about/index.html'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'HOME　>　About the Museum   The Nezu Museum was founded to conserve and exhibit the collection of pre-modern Japanese and East Asian art that Nezu Kaichirō (1860-'
-datePublished: '2016-02-23T13:51:16.473Z'
-dateModified: '2016-02-23T13:51:05.379Z'
+description: ''
+datePublished: '2016-02-23T16:18:05.211Z'
+dateModified: '2016-02-23T16:18:04.450Z'
 author: []
-title: ''
+title: Marunouchi Itinerary
 sourcePath: _posts/2016-02-21-home-greater-about-the-museum-the-nezu-museum-was-founded-to-con.md
 published: true
 authors: []
@@ -19,6 +18,7 @@ publisher:
   domain: www.nezu-muse.or.jp
   url: null
   favicon: null
+url: marunouchi-itinerary/index.html
 _context: 'http://schema.org'
 _type: Article
 
