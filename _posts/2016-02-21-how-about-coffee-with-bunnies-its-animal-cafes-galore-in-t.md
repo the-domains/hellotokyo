@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.timeout.com/tokyo/restaurants/the-top-10-animal-cafes-in-tokyo'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "How about coffee with bunnies? It's animal cafés galore in Tokyo Tokyo has achieved world-wide fame due to its animal cafés. The original craze started with cat"
-datePublished: '2016-02-23T13:42:34.757Z'
-dateModified: '2016-02-23T13:41:46.761Z'
+description: ''
+datePublished: '2016-02-23T16:18:37.610Z'
+dateModified: '2016-02-23T13:56:14.497Z'
 author: []
-title: ''
+title: Basic Tokyo Food Recommendations
 sourcePath: _posts/2016-02-21-how-about-coffee-with-bunnies-its-animal-cafes-galore-in-t.md
 published: true
 authors: []
@@ -19,6 +18,7 @@ publisher:
   domain: www.timeout.com
   url: null
   favicon: null
+url: basic-tokyo-food-recommendations/index.html
 _context: 'http://schema.org'
 _type: Article
 
