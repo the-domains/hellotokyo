@@ -4,8 +4,16 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 16:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 16:24:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hotel Restaurants]]></title>
+            <description><![CDATA[<article><h1>Hotel Restaurants</h1><p>China Blue at Conrad Tokyo
+Why go to a Chinese restaurant in Tokyo, especially when another restaurant in the hotel is Michelin-starred? The delectable, beautifully presented Cantonese food by Albert Tse, that’s why. Or the expansive view of Tokyo Bay and the waterfront, planned site of the 2020 Olympics. Or: don’t be such an absolutist, try both! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88b99d6c2557c3f477c9f7d043a3470192d09198.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/fe67aa60-e4e9-43c8-a1c9-214f37a0588f/index.html</link>
+            <guid isPermaLink="false">fe67aa60-e4e9-43c8-a1c9-214f37a0588f</guid>
+            <pubDate>Tue, 23 Feb 2016 16:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tempura]]></title>
             <description><![CDATA[<article><h1>Tempura</h1><p>Motoyoshi</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ed4798d383fb8c73b42c74a72bdd659083b1a1.jpg"></article>]]></description>
@@ -40,7 +48,7 @@
 If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsukoshi, book the one in Ginza 8chome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b1ed9fb2b114355f0fc55b99f928c18349cd3c0.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
             <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
-            <pubDate>Tue, 23 Feb 2016 16:19:13 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 16:22:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marunouchi Itinerary]]></title>
@@ -69,13 +77,6 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>https://thegrid.ai/hellotokyo/235e44f3-68a6-4722-aee4-3ac66edaa1c3/index.html</link>
             <guid isPermaLink="false">235e44f3-68a6-4722-aee4-3ac66edaa1c3</guid>
             <pubDate>Tue, 23 Feb 2016 16:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Random Retail]]></title>
-            <description><![CDATA[<article><h1>Random Retail</h1><p>Shibuya Crossing, famous crossing at the station, Shibuya</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/094383836b2b64e6db5239682bf9d7014b219cc5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/random-retails/index.html</link>
-            <guid isPermaLink="false">6dcc8d33-ba50-45d0-8131-41ac2763c717</guid>
-            <pubDate>Tue, 23 Feb 2016 16:22:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
