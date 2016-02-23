@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 23 Feb 2016 16:18:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ginza Itinerary]]></title>
+            <description><![CDATA[<article><h1>Ginza Itinerary</h1><p>Most expensive land on earth</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a82a80c873764ad1dfba6a587eb4467f2267334.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/cafe-the-cafe/index.html</link>
+            <guid isPermaLink="false">b05fc3db-3fb5-4f9d-bc3d-84ccca06e576</guid>
+            <pubDate>Tue, 23 Feb 2016 16:17:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Museums and Galleries]]></title>
             <description><![CDATA[<article><h1>Museums and Galleries</h1><p>Nezu Museum in Omotesando (a medium-size museum with a permanent collection, rotating exhibitions and a very beautiful garden with several tea houses in the very middle of Tokyo, a must see) </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a15f68ce521c66ce074dbdb1234cb3b495b6df97.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/museums-and-galleries/index.html</link>
@@ -70,14 +77,6 @@ Why go to a Chinese restaurant in Tokyo, especially when another restaurant in t
             <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
             <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
             <pubDate>Tue, 23 Feb 2016 16:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Motoyoshi
-Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p>]]></description>
-            <link>https://thegrid.ai/hellotokyo/de73ac9d-194e-4318-9d60-7731d73a47ca/index.html</link>
-            <guid isPermaLink="false">de73ac9d-194e-4318-9d60-7731d73a47ca</guid>
-            <pubDate>Tue, 23 Feb 2016 13:40:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
