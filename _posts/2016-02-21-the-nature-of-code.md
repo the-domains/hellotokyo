@@ -16,8 +16,8 @@ keywords:
   - typeset
   - source
 description: ''
-datePublished: '2016-02-23T16:18:44.077Z'
-dateModified: '2016-02-23T14:03:50.056Z'
+datePublished: '2016-02-23T16:22:43.627Z'
+dateModified: '2016-02-23T16:21:21.926Z'
 author: []
 related: []
 app_links: []
@@ -26,10 +26,10 @@ sourcePath: _posts/2016-02-21-the-nature-of-code.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: Natureofcode
   domain: natureofcode.com
   url: 'http://natureofcode.com'
-  favicon: null
 url: general-tokyo-entertainment/index.html
 _context: 'http://schema.org'
 _type: MediaObject
