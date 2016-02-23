@@ -4,7 +4,7 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 13:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 13:39:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,8 +22,15 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <pubDate>Sun, 21 Feb 2016 13:33:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Nature of Code]]></title>
+            <description><![CDATA[<article><h1>The Nature of Code</h1><p>Download the entire book directly from the author.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fb5711ca7d7f4b6829f0a55035ec19b887d8d43.jpg"></article>]]></description>
+            <link>http://natureofcode.com/</link>
+            <guid isPermaLink="false">411ee6ec-499b-4ce4-b9df-3230f2db79d7</guid>
+            <pubDate>Tue, 23 Feb 2016 13:38:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[COFFEE SHOPS]]></title>
-            <description><![CDATA[<article><h1>COFFEE SHOPS</h1><p>Omotesando Koffee (it’s a must go, tucked away in the backstreets behind Omotesando Hills) </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4641dad4d027b65a3fb0efd5ae1a65a8a64bd232.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>COFFEE SHOPS</h1><p>Omotesando Koffee (it’s a must go, tucked away in the backstreets behind Omotesando Hills) </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bf28c8d0fa85e2521e10acaa05ac25fabd58bbc.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/235e44f3-68a6-4722-aee4-3ac66edaa1c3/index.html</link>
             <guid isPermaLink="false">235e44f3-68a6-4722-aee4-3ac66edaa1c3</guid>
             <pubDate>Tue, 23 Feb 2016 13:37:08 GMT</pubDate>
@@ -45,7 +52,7 @@ Why go to a Chinese restaurant in Tokyo, especially when another restaurant in t
         </item>
         <item>
             <title><![CDATA[BARS]]></title>
-            <description><![CDATA[<article><h1>BARS</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5c330f7c4037794c4ff568eb6892ec509e19268.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>BARS</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45582a2e0cd8e2b943d392bd3a419b5a15e8767e.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
             <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
             <pubDate>Tue, 23 Feb 2016 13:37:19 GMT</pubDate>
@@ -71,13 +78,6 @@ Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p></article>]]></descript
             <link>http://www.nezu-muse.or.jp/en/about/index.html</link>
             <guid isPermaLink="false">37c9289b-df75-46c1-8cec-49fb956a15df</guid>
             <pubDate>Sun, 21 Feb 2016 14:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.gotokyo.org/en/kanko/taito/spot/images/01_203.jpg">]]></description>
-            <link>https://thegrid.ai/hellotokyo/this-museum-collects-and-preserves-around-300-treasures-that/index.html</link>
-            <guid isPermaLink="false">7f9e5ca4-5d8a-439e-acc5-899a1578f745</guid>
-            <pubDate>Sun, 21 Feb 2016 13:18:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
