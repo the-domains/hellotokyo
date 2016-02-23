@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:17:58.680Z'
-dateModified: '2016-02-23T16:17:58.100Z'
+datePublished: '2016-02-23T16:18:52.914Z'
+dateModified: '2016-02-23T16:18:21.491Z'
 author: []
 title: Ginza Itinerary
 sourcePath: _posts/2016-02-21-cafe-the-cafe-is-run-by-fumuro-ya-produced-by-kaga-fu-f.md
