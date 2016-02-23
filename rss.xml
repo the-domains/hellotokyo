@@ -4,7 +4,7 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 13:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 13:44:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -20,6 +20,13 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
             <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
             <pubDate>Sun, 21 Feb 2016 13:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.timeout.com/images/102852954/750/422/image.jpg">]]></description>
+            <link>http://www.timeout.com/tokyo/restaurants/the-top-10-animal-cafes-in-tokyo</link>
+            <guid isPermaLink="false">967649a5-c6e0-4a28-a562-61e3d13e18e3</guid>
+            <pubDate>Tue, 23 Feb 2016 13:42:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Nature of Code]]></title>
@@ -71,13 +78,6 @@ Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p>]]></description>
             <link>https://thegrid.ai/hellotokyo/cafe-the-cafe/index.html</link>
             <guid isPermaLink="false">b05fc3db-3fb5-4f9d-bc3d-84ccca06e576</guid>
             <pubDate>Sun, 21 Feb 2016 14:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3387902-0b17-44ef-bf74-531004ac9c1f.jpg">]]></description>
-            <link>http://www.nezu-muse.or.jp/en/about/index.html</link>
-            <guid isPermaLink="false">37c9289b-df75-46c1-8cec-49fb956a15df</guid>
-            <pubDate>Sun, 21 Feb 2016 14:05:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
