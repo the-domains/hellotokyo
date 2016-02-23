@@ -17,8 +17,8 @@ keywords:
   - typeset
   - source
 description: Download the entire book directly from the author.
-datePublished: '2016-02-21T13:51:59.088Z'
-dateModified: '2016-02-21T13:51:36.279Z'
+datePublished: '2016-02-23T13:38:59.055Z'
+dateModified: '2016-02-23T13:38:31.645Z'
 author: []
 related: []
 app_links: []
@@ -36,3 +36,17 @@ _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b88746b7-3bd8-43cb-96ea-6a20269705cb.jpg)
+
+Animal Cafes
+
+(cats and rabbits and owls..)
+
+http://www.timeout.com/tokyo/restaurants/the-top-10-animal-cafes-in-tokyo
+
+****
+
+Robot Restaurant
+
+****
+
+in Shinjuku
