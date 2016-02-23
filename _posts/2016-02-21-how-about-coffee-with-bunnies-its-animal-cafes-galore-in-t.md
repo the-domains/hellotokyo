@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:18:37.610Z'
-dateModified: '2016-02-23T13:56:14.497Z'
+datePublished: '2016-02-23T16:22:43.381Z'
+dateModified: '2016-02-23T16:21:21.858Z'
 author: []
 title: Basic Tokyo Food Recommendations
 sourcePath: _posts/2016-02-21-how-about-coffee-with-bunnies-its-animal-cafes-galore-in-t.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: timeout.com
   domain: www.timeout.com
   url: null
-  favicon: null
 url: basic-tokyo-food-recommendations/index.html
 _context: 'http://schema.org'
 _type: Article
