@@ -4,7 +4,7 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 13:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 13:51:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -20,6 +20,13 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>https://thegrid.ai/hellotokyo/6ebd92f5-6caa-4303-9c64-2bd0595048ad/index.html</link>
             <guid isPermaLink="false">6ebd92f5-6caa-4303-9c64-2bd0595048ad</guid>
             <pubDate>Sun, 21 Feb 2016 13:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3387902-0b17-44ef-bf74-531004ac9c1f.jpg">]]></description>
+            <link>http://www.nezu-muse.or.jp/en/about/index.html</link>
+            <guid isPermaLink="false">37c9289b-df75-46c1-8cec-49fb956a15df</guid>
+            <pubDate>Tue, 23 Feb 2016 13:51:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -71,13 +78,6 @@ Near Aoyama Tokyu Stay, great tempura 03 3401 0722 </p>]]></description>
             <link>https://thegrid.ai/hellotokyo/de73ac9d-194e-4318-9d60-7731d73a47ca/index.html</link>
             <guid isPermaLink="false">de73ac9d-194e-4318-9d60-7731d73a47ca</guid>
             <pubDate>Tue, 23 Feb 2016 13:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cafe The Cafe]]></title>
-            <description><![CDATA[<article><h1>Cafe The Cafe</h1><p>Most expensive land on earth</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a82a80c873764ad1dfba6a587eb4467f2267334.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/cafe-the-cafe/index.html</link>
-            <guid isPermaLink="false">b05fc3db-3fb5-4f9d-bc3d-84ccca06e576</guid>
-            <pubDate>Tue, 23 Feb 2016 13:49:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
