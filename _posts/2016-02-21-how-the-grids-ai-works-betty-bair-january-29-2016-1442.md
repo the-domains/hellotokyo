@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:19:13.758Z'
-dateModified: '2016-02-23T14:48:28.072Z'
+datePublished: '2016-02-23T16:22:43.707Z'
+dateModified: '2016-02-23T16:21:22.051Z'
 author: []
 title: Random Retail
 sourcePath: _posts/2016-02-21-how-the-grids-ai-works-betty-bair-january-29-2016-1442.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: thegrid.zendesk.com
   domain: thegrid.zendesk.com
   url: null
-  favicon: null
 url: random-retails/index.html
 _context: 'http://schema.org'
 _type: Article
