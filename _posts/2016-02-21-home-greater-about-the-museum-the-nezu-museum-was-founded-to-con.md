@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:18:05.211Z'
-dateModified: '2016-02-23T16:18:04.450Z'
+datePublished: '2016-02-23T16:22:43.068Z'
+dateModified: '2016-02-23T16:21:21.452Z'
 author: []
 title: Marunouchi Itinerary
 sourcePath: _posts/2016-02-21-home-greater-about-the-museum-the-nezu-museum-was-founded-to-con.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: nezu-muse.or.jp
   domain: www.nezu-muse.or.jp
   url: null
-  favicon: null
 url: marunouchi-itinerary/index.html
 _context: 'http://schema.org'
 _type: Article
