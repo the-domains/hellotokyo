@@ -6,25 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:22:42.727Z'
-dateModified: '2016-02-23T16:21:21.423Z'
+datePublished: '2016-02-24T03:52:00.880Z'
+dateModified: '2016-02-24T03:51:52.483Z'
 author: []
 title: Museums and Galleries
 sourcePath: _posts/2016-02-21-kyu-asakura-house-and-garden-is-a-great-place-to-step-back-i.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: en.japantravel.com
   domain: en.japantravel.com
   url: null
+  favicon: null
 url: museums-and-galleries/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce7c5d9c-8ad4-4a13-ae4b-3e0e3686e643.jpg)
-
 **Nezu Museum** in Omotesando (a medium-size museum with a permanent collection, rotating exhibitions and a very beautiful garden with several tea houses in the very middle of Tokyo, a must see) [][0]
 
 [http://www.nezu-muse.or.jp/en/about/index.html][0]
@@ -90,6 +88,7 @@ _Recommended Apps_
 **Google Maps** for Directions (it has improved tremendously and now works rather well in Tokyo)
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c349571-6a46-4580-9936-80899c330961.jpg)
 
 [0]: http://www.nezu-muse.or.jp/en/about/index.html
 [1]: http://www.haramuseum.or.jp/generalTop.html
