@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:22:43.381Z'
-dateModified: '2016-02-23T16:21:21.858Z'
+datePublished: '2016-02-24T03:40:30.196Z'
+dateModified: '2016-02-24T03:40:29.638Z'
 author: []
 title: Basic Tokyo Food Recommendations
 sourcePath: _posts/2016-02-21-how-about-coffee-with-bunnies-its-animal-cafes-galore-in-t.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: timeout.com
   domain: www.timeout.com
   url: null
+  favicon: null
 url: basic-tokyo-food-recommendations/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://media.timeout.com/images/102852954/750/422/image.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea2aa629-2bd3-46e5-b905-71feb04db71c.jpg)
 
 Sushi
 
@@ -86,6 +86,9 @@ http://www.hikarie8.com/d47shokudo/menu/2015/11/11-1.shtml
 **[][5]**
 
 . They create meals that are specialized from different regions within Japan. This month, they are specializing in food from Shiga prefecture
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a82f1d52-6355-4b82-acb7-522cd0949b12.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab22452e-452a-47c9-85e0-24ec1cafb2c5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26dfc16e-5678-47da-b099-5b8a515983b8.jpg)
 
 [0]: http://www.sushibaryasuda.com/aboutus_e.html
 [1]: http://mai-sen.com/
