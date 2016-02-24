@@ -4,8 +4,15 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 03:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 03:32:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Random Retail]]></title>
+            <description><![CDATA[<article><h1>Random Retail</h1><p>Shibuya Crossing, famous crossing at the station, Shibuya</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71094730-9b6c-407e-901d-4afb361006ba.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/random-retails/index.html</link>
+            <guid isPermaLink="false">6dcc8d33-ba50-45d0-8131-41ac2763c717</guid>
+            <pubDate>Wed, 24 Feb 2016 03:31:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bars]]></title>
             <description><![CDATA[<article><h1>Bars</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c08116ffa93fd7937115e139cdd313d598784b10.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
             <link>https://thegrid.ai/hellotokyo/basic-tokyo-food-recommendations/index.html</link>
             <guid isPermaLink="false">967649a5-c6e0-4a28-a562-61e3d13e18e3</guid>
             <pubDate>Tue, 23 Feb 2016 16:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[General Tokyo Entertainment]]></title>
-            <description><![CDATA[<article><h1>General Tokyo Entertainment</h1><p>Animal Cafes (cats and rabbits and owls..)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70c093e0021d85a079087c9d1ea18058e31a6ce.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/general-tokyo-entertainment/index.html</link>
-            <guid isPermaLink="false">411ee6ec-499b-4ce4-b9df-3230f2db79d7</guid>
-            <pubDate>Wed, 24 Feb 2016 03:25:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
