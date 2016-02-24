@@ -6,25 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:22:43.096Z'
-dateModified: '2016-02-23T16:21:21.392Z'
+datePublished: '2016-02-24T03:47:11.794Z'
+dateModified: '2016-02-24T03:47:03.846Z'
 author: []
 title: Ginza Itinerary
 sourcePath: _posts/2016-02-21-cafe-the-cafe-is-run-by-fumuro-ya-produced-by-kaga-fu-f.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: suntory.com
   domain: www.suntory.com
   url: null
+  favicon: null
 url: cafe-the-cafe/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1f1f4f2-11a9-42ff-a610-bfdfb98a8ec7.jpg)
-
 Most expensive land on earth
 
 Grid-like but can be disorienting
@@ -44,3 +42,4 @@ The basement floor (of typically any department store) is a must. It's the food 
 Shiseido Art Gallery
 
 It's an interesting art space in the basement, across from the Shiseido HQ in Ginza
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f294e0b8-ea50-43b0-9095-4e574d9cb7f5.jpg)
