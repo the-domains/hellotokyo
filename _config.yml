@@ -1,7 +1,7 @@
 name: hellotokyo
 favicon: null
-layout_spectrum: 0.188172
-typography_spectrum: 0.56371
+layout_spectrum: 0.41361
+typography_spectrum: 0.55023
 title: Hello Tokyo
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#F2EAE8'
     - '#B2ADA4'
     - '#D0CDC7'
-  brandStrength: 0.5
+  brandStrength: 0.6875
   lightness: 0.8125
-  saturation: 0.2670251
+  saturation: 0.25
   rhythmicContrast: 0
 purpose: []
