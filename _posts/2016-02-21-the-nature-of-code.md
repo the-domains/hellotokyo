@@ -16,8 +16,8 @@ keywords:
   - typeset
   - source
 description: ''
-datePublished: '2016-02-23T16:22:43.627Z'
-dateModified: '2016-02-23T16:21:21.926Z'
+datePublished: '2016-02-24T03:25:19.222Z'
+dateModified: '2016-02-24T03:24:48.576Z'
 author: []
 related: []
 app_links: []
@@ -26,16 +26,16 @@ sourcePath: _posts/2016-02-21-the-nature-of-code.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: Natureofcode
   domain: natureofcode.com
   url: 'http://natureofcode.com'
+  favicon: null
 url: general-tokyo-entertainment/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b88746b7-3bd8-43cb-96ea-6a20269705cb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73518319-2e60-476a-a8ca-d96af10368f0.jpg)
 
 **Animal Cafes** (cats and rabbits and owls..)
 
