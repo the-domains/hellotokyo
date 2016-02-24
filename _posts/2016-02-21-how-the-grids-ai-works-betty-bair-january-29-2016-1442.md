@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:22:43.707Z'
-dateModified: '2016-02-23T16:21:22.051Z'
+datePublished: '2016-02-24T03:31:49.577Z'
+dateModified: '2016-02-24T03:31:35.154Z'
 author: []
 title: Random Retail
 sourcePath: _posts/2016-02-21-how-the-grids-ai-works-betty-bair-january-29-2016-1442.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: thegrid.zendesk.com
   domain: thegrid.zendesk.com
   url: null
+  favicon: null
 url: random-retails/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c632f54-8f93-46b2-9a40-5aca33dfffc0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71094730-9b6c-407e-901d-4afb361006ba.jpg)
 
 Shibuya Crossing, famous crossing at the station, Shibuya
 
