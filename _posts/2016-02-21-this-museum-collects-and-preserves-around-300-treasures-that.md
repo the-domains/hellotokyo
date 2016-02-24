@@ -6,25 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:22:43.191Z'
-dateModified: '2016-02-23T16:21:21.453Z'
+datePublished: '2016-02-24T03:42:20.104Z'
+dateModified: '2016-02-24T03:42:12.237Z'
 author: []
 title: Ueno + Nippori + Asakusa Itinerary
 sourcePath: _posts/2016-02-21-this-museum-collects-and-preserves-around-300-treasures-that.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: gotokyo.org
   domain: www.gotokyo.org
   url: null
+  favicon: null
 url: this-museum-collects-and-preserves-around-300-treasures-that/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](http://www.gotokyo.org/en/kanko/taito/spot/images/01_203.jpg)
-
 **UENO**
 
 _How to get there:_
@@ -96,3 +94,4 @@ Summary:
 UENO + NIPPORI (optional) + ASAKUSA is definitely a full day.
 
 You can have lunch in Ueno or Nippori and dinner in ASAKUSA (lots of food in Asakusa).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25ee3a4b-29df-479a-b0bf-5a31c3036b6c.jpg)
