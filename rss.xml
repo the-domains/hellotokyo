@@ -4,8 +4,15 @@
         <description><![CDATA[Hello Tokyo]]></description>
         <link>https://thegrid.ai/hellotokyo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 03:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 03:32:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hellotokyo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bars]]></title>
+            <description><![CDATA[<article><h1>Bars</h1><p>Bar Tram, Bar Tracks, Bar Trench, Bar Martha all in Ebisu, all walking distance from the station </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c08116ffa93fd7937115e139cdd313d598784b10.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hellotokyo/654d78b3-c170-458b-8e17-3adce99108f8/index.html</link>
+            <guid isPermaLink="false">654d78b3-c170-458b-8e17-3adce99108f8</guid>
+            <pubDate>Wed, 24 Feb 2016 03:32:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hotel Restaurants]]></title>
             <description><![CDATA[<article><h1>Hotel Restaurants</h1><p>China Blue at Conrad Tokyo
@@ -66,17 +73,10 @@ If I remember correctly, he was Jiro's apprentice. Don't book the one in Mitsuko
         </item>
         <item>
             <title><![CDATA[General Tokyo Entertainment]]></title>
-            <description><![CDATA[<article><h1>General Tokyo Entertainment</h1><p>Animal Cafes (cats and rabbits and owls..)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73518319-2e60-476a-a8ca-d96af10368f0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>General Tokyo Entertainment</h1><p>Animal Cafes (cats and rabbits and owls..)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c70c093e0021d85a079087c9d1ea18058e31a6ce.jpg"></article>]]></description>
             <link>https://thegrid.ai/hellotokyo/general-tokyo-entertainment/index.html</link>
             <guid isPermaLink="false">411ee6ec-499b-4ce4-b9df-3230f2db79d7</guid>
             <pubDate>Wed, 24 Feb 2016 03:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coffee Shops]]></title>
-            <description><![CDATA[<article><h1>Coffee Shops</h1><p>Omotesando Koffee (it’s a must go, tucked away in the backstreets behind Omotesando Hills) </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d156ed55258bb6c604261971f167fbeb9211a942.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hellotokyo/235e44f3-68a6-4722-aee4-3ac66edaa1c3/index.html</link>
-            <guid isPermaLink="false">235e44f3-68a6-4722-aee4-3ac66edaa1c3</guid>
-            <pubDate>Tue, 23 Feb 2016 16:22:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
